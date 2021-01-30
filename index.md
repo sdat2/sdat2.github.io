@@ -7,7 +7,7 @@ My main interests are:
  - extreme value theory (EVT), 
  - and machine learning (ML).
 
-I like to code, although I suspect that I am often verbose, and I do not write enough tests or comments.
+I like to code. I suspect that I am often verbose.
 
 Projects that I am currently involved in:
 
@@ -15,3 +15,4 @@ Projects that I am currently involved in:
  - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
  - Detecting biodivirsity using ML algorithms on earth observation products.
 
+My intellectual inspirations are Kerry Emanuel, Nassim Taleb, Dan Chavas, David Mackay, Milton Friedman, and Roger Scruton.

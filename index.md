@@ -10,14 +10,17 @@ My main interests are:
 
 I like to code. I suspect that I am often verbose.
 
-Check out my github for most of my code.
+Check out my github for evidence.
+
+I completed an integrated Master of Science (physics) degree at the University of Cambridge.
 
 Projects that I am currently involved in:
 
- - Detecting fronts in the Southern ocean using a numbe of different algorithms.
+ - Using sensitivity analysis on simplified global physical models to understand CMIP biases in the tropics.
+ - Detecting fronts in the Southern Ocean using different algorithms.
  - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
- - Detecting biodivirsity using ML algorithms on earth observation products.
+ - Detecting habitat fragmentation using ML algorithms on earth observation products.
  
 My primary academic supervisor is Dr. Dan Jones of the British Antarctic Survey.
 
-My intellectual inspirations are Kerry Emanuel, Nassim Taleb, Dan Chavas, David Mackay, Milton Friedman, and Roger Scruton.
+Feel free to get in touch. My email address is ${my github handle} at cam.ac.uk .

@@ -1,5 +1,7 @@
 ## Simon D.A. Thomas
 
+<https://orcid.org/0000-0001-7911-1659>
+
 I am a postgraduate student at the University of Cambridge (on an MRes+PhD program @ai4er-cdt). 
 
 My main interests are: 

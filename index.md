@@ -24,6 +24,8 @@ Projects that I am currently involved in:
    - <https://os.copernicus.org/preprints/os-2021-40/>
    - <https://doi.org/10.5281/zenodo.4740752>
  - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
+   - <https://gitlab.com/sdat2/surge>
+   - <https://github.com/sdat2/surge>
  - Detecting habitat fragmentation using ML algorithms on earth observation products.
    - <https://geograph.readthedocs.io/> 
  

@@ -43,8 +43,13 @@ My primary academic supervisor is Dr. Dan Jones of the British Antarctic Survey.
 
 Feel free to get in touch. My email address is ${my github handle} at cam.ac.uk .
 
+
+### Funding
+
+Simon Thomas is supported by studentship 2413578 from the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (grant no. EP/S022961/1). Simon Thomas also received funding from the NERC ACSIS project (grant no. NE/N018028/1), and a Natural Environment Research Council (NERC) Research Experience Placement (REP) project funded by the SPITFIRE Doctoral Training Partnership (grant no. NE/S007210/1).
+
 ### Thoughts on programming languages:
 
-- Fortran=Latin
-- Python=English
-- Julia=Esparanto
+- Fortran==Latin
+- Python==English
+- Julia==Esparanto

@@ -6,6 +6,8 @@
 
 <https://scholar.google.com/citations?user=kKonjBYAAAAJ>
 
+Web of Science ResearcherID: ABE-8823-2021
+
 ### Letters collected so far
 
 BA MSc MRes (Cantab)
@@ -48,8 +50,3 @@ Feel free to get in touch. My email address is ${my github handle} at cam.ac.uk 
 
 I am supported by studentship 2413578 from the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (grant no. EP/S022961/1). I have also received funding from the NERC ACSIS project (grant no. NE/N018028/1), and a Natural Environment Research Council (NERC) Research Experience Placement (REP) project funded by the SPITFIRE Doctoral Training Partnership (grant no. NE/S007210/1).
 
-### Thoughts on programming languages:
-
-- Fortran==Latin
-- Python==English
-- Julia==Esparanto

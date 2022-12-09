@@ -14,19 +14,21 @@ BA MSc MRes (Cantab)
 
 ### Summary
 
-I am a postgraduate student at the University of Cambridge (on an MRes+PhD program @ai4er-cdt).
+I am a PhD student at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics. I am funded through @ai4er-cdt MRes+PhD program.
 
 My main interests are:
 
- - climate physics, 
+ - climate physics,
  - extreme value theory (EVT), 
  - and machine learning (ML).
 
-I like to code. I suspect that I am often verbose.
-
-Check out my github for evidence.
-
 I completed an integrated Master of Science (physics) degree at the University of Cambridge.
+
+### PhD topic
+
+My Phd focuses on trying to improve our understanding of tropical cyclone storm surge risk, using novel machine learning techniques.
+
+I am working in collaboration with resarchers from the University College London, the Alan Turing Institute, and Emory University.
 
 ### Projects that I am currently involved in
 
@@ -36,6 +38,7 @@ I completed an integrated Master of Science (physics) degree at the University o
    - <https://os.copernicus.org/preprints/os-2021-40/>
    - <https://doi.org/10.5281/zenodo.4740752>
  - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
+   - <https://gitlab.com/sdat2/new-orleans>
    - <https://gitlab.com/sdat2/surge>
    - <https://github.com/sdat2/surge>
  - Detecting habitat fragmentation using ML algorithms on earth observation products.

@@ -1,5 +1,7 @@
 ## Simon D.A. Thomas
 
+<img src="https://avatars.githubusercontent.com/u/30407294" style="width:10em" alt="Profile picture">
+
 ### Papers
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7911-1659" href="https://orcid.org/0000-0001-7911-1659" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7911-1659</a></div>
@@ -10,7 +12,7 @@ Web of Science ResearcherID: ABE-8823-2021
 
 ### Letters collected so far
 
-BA MSc MRes (Cantab)
+BA MSc MRes Ma (Cantab)
 
 ### Summary
 

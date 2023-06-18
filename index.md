@@ -16,21 +16,11 @@ BA MSc MRes Ma (Cantab)
 
 ### Summary
 
-I am a PhD student at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics. I am funded through @ai4er-cdt MRes+PhD program.
+I am a PhD student at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics. I am funded through @ai4er-cdt MRes+PhD program. I have spent the past four years in the field of climate physics, using machine learning techniques and numerical models to generate novel insights. This has allowed me to gain good skills in writing software, data processing, and machine learning. I have worked successfully in both my individual and group projects, to achieve high-quality open-source science. 
 
-My main interests are:
+My thesis `Optimally Emulating a Hurricane Storm Surge Model for Risk Estimation and Sensitivity Analysis' is based on emulating a realistic storm surge model (ADCIRC+SWAN).
 
- - climate physics,
- - extreme value theory (EVT), 
- - and machine learning (ML).
-
-I completed an integrated Master of Science (physics) degree at the University of Cambridge.
-
-### PhD topic
-
-My Phd focuses on trying to improve our understanding of tropical cyclone storm surge risk, using novel machine learning techniques.
-
-I am working in collaboration with resarchers from the University College London, the Alan Turing Institute, and Emory University.
+I studied Natural Sciences (Physics, BA+MSc) at the University of Cambridge.
 
 ### Projects that I am currently involved in
 

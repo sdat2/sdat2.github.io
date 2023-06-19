@@ -12,7 +12,7 @@ Web of Science ResearcherID: ABE-8823-2021
 
 ### Letters collected so far
 
-BA MSc MRes Ma (Cantab)
+BA MSc MRes MA (Cantab)
 
 ### Summary
 

@@ -26,22 +26,34 @@ I studied Natural Sciences (Physics, BA+MSc) at the University of Cambridge.
 
  - Using sensitivity analysis on simplified global physical models to understand CMIP biases in the tropics.
    - <https://seager19.readthedocs.io/> 
- - Detecting fronts in the Southern Ocean using different algorithms.
-   - <https://os.copernicus.org/preprints/os-2021-40/>
-   - <https://doi.org/10.5281/zenodo.4740752>
  - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
    - <https://gitlab.com/sdat2/new-orleans>
    - <https://gitlab.com/sdat2/surge>
    - <https://github.com/sdat2/surge>
- - Detecting habitat fragmentation using ML algorithms on earth observation products.
-   - <https://geograph.readthedocs.io/> 
  
 My primary academic supervisor is Dr. Dan Jones of the British Antarctic Survey.
 
-Feel free to get in touch. My email address is ${my github handle} at cam.ac.uk .
+Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .
 
 
 ### Funding
 
 I am supported by studentship 2413578 from the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (grant no. EP/S022961/1). I have also received funding from the NERC ACSIS project (grant no. NE/N018028/1), and a Natural Environment Research Council (NERC) Research Experience Placement (REP) project funded by the SPITFIRE Doctoral Training Partnership (grant no. NE/S007210/1).
+
+### Reviews
+
+I have reviewed articles for:
+
+- Journal of Physical Oceanography (JPO) (x1)
+- Journal of Advances in Modeling Earth Systems (JAMES) (x1)
+- Climate Informatics
+
+### Past projects
+
+- Risk Management Solutions (UK) Ltd.: Deep Learning for extreme wind superresolution/downscaling
+- Detecting fronts in the Southern Ocean using different algorithms.
+  - <https://os.copernicus.org/preprints/os-2021-40/>
+  - <https://doi.org/10.5281/zenodo.4740752>
+- Detecting habitat fragmentation using ML algorithms on earth observation products.
+  - <https://geograph.readthedocs.io/> 
 

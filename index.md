@@ -16,25 +16,19 @@ BA MSc MRes MA (Cantab)
 
 ### Summary
 
-I am a PhD student at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics. I am funded through @ai4er-cdt MRes+PhD program.
+I am a PhD candidate at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics. I am funded through @ai4er-cdt MRes+PhD program.
 
-My thesis `Optimally Emulating a Hurricane Storm Surge Model for Risk Estimation and Sensitivity Analysis' is based on emulating a realistic storm surge model (ADCIRC+SWAN).
+My thesis `Optimally Emulating a Hurricane Storm Surge Model for Risk Estimation and Sensitivity Analysis' is based on emulating a realistic storm surge model (ADCIRC).
 
 I studied Natural Sciences (Physics, BA+MSc) at the University of Cambridge.
 
 ### Projects that I am currently involved in
 
- - Using sensitivity analysis on simplified global physical models to understand CMIP biases in the tropics.
-   - <https://seager19.readthedocs.io/> 
- - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
-   - <https://gitlab.com/sdat2/new-orleans>
-   - <https://gitlab.com/sdat2/surge>
-   - <https://github.com/sdat2/surge>
+"Finding the potential height of tropical cyclone storm surges in a changing climate using Bayesian optimization"
+Read our preprint https://doi.org/10.31223/X57T5R and code https://github.com/sdat2/worstsurge to hear about a method for calculating the worst possible storm surge and its benefits!
+
  
-My primary academic supervisor is Dr. Dan Jones of the British Antarctic Survey.
-
 Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .
-
 
 ### Funding
 
@@ -58,5 +52,11 @@ I have reviewed abstracts for:
   - <https://os.copernicus.org/preprints/os-2021-40/>
   - <https://doi.org/10.5281/zenodo.4740752>
 - Detecting habitat fragmentation using ML algorithms on earth observation products.
-  - <https://geograph.readthedocs.io/> 
+  - <https://geograph.readthedocs.io/>
+- Using sensitivity analysis on simplified global physical models to understand CMIP biases in the tropics.
+  - <https://seager19.readthedocs.io/>
+ - Looking at the return periods of storm surges produced by tropical cyclones in climate models.
+   - <https://gitlab.com/sdat2/new-orleans>
+   - <https://gitlab.com/sdat2/surge>
+   - <https://github.com/sdat2/surge>
 

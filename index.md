@@ -24,8 +24,8 @@ I studied Natural Sciences (Physics, BA+MSc) at the University of Cambridge.
 
 ### Projects that I am currently involved in
 
-"Finding the potential height of tropical cyclone storm surges in a changing climate using Bayesian optimization"
-Read our preprint https://doi.org/10.31223/X57T5R and code https://github.com/sdat2/worstsurge to hear about a method for calculating the worst possible storm surge and its benefits!
+*"Finding the potential height of tropical cyclone storm surges in a changing climate using Bayesian optimization"*
+Read our preprint <https://doi.org/10.31223/X57T5R> and code <https://github.com/sdat2/worstsurge> to hear about a method for calculating the worst possible storm surge and its benefits!
 
  
 Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .

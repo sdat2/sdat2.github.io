@@ -12,27 +12,29 @@ Web of Science ResearcherID: ABE-8823-2021
 
 ### Letters collected so far
 
-BA MSc MRes MA (Cantab)
+BA MSci MRes MA (Cantab), PhD (Cantab, minor corrections)
 
 ### Summary
 
-I am a PhD candidate at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics. I am funded through @ai4er-cdt MRes+PhD program.
+I recently completed my PhD at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics, funded through the @ai4er-cdt MRes+PhD program. I passed my viva in January 2026, subject to minor corrections.
 
-My thesis `Optimally Emulating a Hurricane Storm Surge Model for Risk Estimation and Sensitivity Analysis' is based on emulating a realistic storm surge model (ADCIRC).
+My thesis *The Potential Height of Tropical Cyclone Storm Surges* asked what the worst possible hurricane storm surge given a climate is, and how this could be useful for risk assessment and for testing the extreme extrapolation of deep learning surrogates.
 
-I studied Natural Sciences (Physics, BA+MSc) at the University of Cambridge.
+I studied Natural Sciences (Physics, BA+MSci) at the University of Cambridge. I am currently an ML researcher at Goldman Sachs.
 
 ### Projects that I am currently involved in
 
 *"Finding the potential height of tropical cyclone storm surges in a changing climate using Bayesian optimization"*
-Read our preprint <https://doi.org/10.31223/X57T5R> and code <https://github.com/sdat2/worstsurge> to hear about a method for calculating the worst possible storm surge and its benefits!
+Read our preprint <https://doi.org/10.31223/X57T5R> and code <https://github.com/sdat2/worstsurge> ([docs](https://worstsurge.readthedocs.io/en/latest/MAIN_README.html)) to hear about a method for calculating the worst possible storm surge and its benefits!
+
+*SurgeNet*: A spatio-temporal graph neural network for emulating storm surge models. Datasets available on HuggingFace: [train/val/test](https://huggingface.co/datasets/sdat2/surgenet-train), [extreme test](https://huggingface.co/datasets/sdat2/surgenet-test-ph).
 
  
 Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .
 
 ### Funding
 
-I am supported by studentship 2413578 from the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (grant no. EP/S022961/1). I have also received funding from the NERC ACSIS project (grant no. NE/N018028/1), and a Natural Environment Research Council (NERC) Research Experience Placement (REP) project funded by the SPITFIRE Doctoral Training Partnership (grant no. NE/S007210/1).
+My PhD was supported by studentship 2413578 from the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (grant no. EP/S022961/1). I also received funding from the NERC ACSIS project (grant no. NE/N018028/1), and a Natural Environment Research Council (NERC) Research Experience Placement (REP) project funded by the SPITFIRE Doctoral Training Partnership (grant no. NE/S007210/1).
 
 ### Reviews
 
@@ -45,9 +47,14 @@ I have reviewed abstracts for:
 
 - Climate Informatics 2024 (x2)
 
+### Blog
+
+- [London has better weather than New York City](https://github.com/sdat2/lon_nyc) — a data-driven analysis of 20 years of hourly weather records that debunks the "drizzly London" myth.
+
 ### Past projects
 
-- Risk Management Solutions (UK) Ltd.: Deep Learning for extreme wind superresolution/downscaling
+- Goldman Sachs: ML research in Model Risk Management — probabilistic model benchmarking, proper scoring rules, config-driven pipelines (Hydra/MLflow).
+- Risk Management Solutions (UK) Ltd.: Deep learning for extreme wind superresolution/downscaling.
 - Detecting fronts in the Southern Ocean using different algorithms.
   - <https://os.copernicus.org/preprints/os-2021-40/>
   - <https://doi.org/10.5281/zenodo.4740752>

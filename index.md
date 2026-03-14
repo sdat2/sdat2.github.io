@@ -33,6 +33,10 @@ Read our preprint <https://doi.org/10.31223/X57T5R> and code <https://github.com
 
 ML models for weather and climate [need greater focus on extremes](https://doi.org/10.1088/1748-9326/ac9d4e). A model that works well on average can fail badly on rare events. In SurgeNet I built a fun toy example showing why: a ReLU network is piecewise linear, so it extrapolates beyond physical bounds as a tangent — predicting impossible values. This showed up in practice too: swapping TanH for ReLU in our graph neural network increased extreme test error 5×, while barely affecting average performance. I also explored similar ideas at RMS for winterstorms. Small architectural choices matter a lot at the tails.
 
+### Thermodynamics vs. dynamics in climate projections
+
+Climate models have well-known biases in tropical cyclone frequency, intensity, and seasonality — mostly because they can't resolve the small-scale dynamics of TC genesis and structure at typical ~1° grid spacing. But broad-scale thermodynamic fields like sea surface temperature are much more reliable. My thesis leans into this asymmetry: instead of trusting the TCs that climate models produce directly, we use thermodynamic theory (potential intensity, potential size) applied to the large-scale fields to calculate what the worst possible storm *could* be. These idealised theories make strong assumptions (steady-state Carnot engines, etc.), but they let you sidestep the messy dynamical biases entirely. I think this thermodynamic-first approach — trust the fields climate models are good at, use theory for the rest — is underexplored and could be useful beyond tropical cyclones.
+
 ### Contact
  
 Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .

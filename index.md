@@ -1,4 +1,3 @@
-# Simon D.A. Thomas
 
 <img src="https://avatars.githubusercontent.com/u/30407294" style="width:10em" alt="Profile picture">
 

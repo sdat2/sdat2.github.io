@@ -29,6 +29,11 @@ Read our preprint <https://doi.org/10.31223/X57T5R> and code <https://github.com
 
 *SurgeNet*: A spatio-temporal graph neural network for emulating storm surge models. Datasets available on HuggingFace: [train/val/test](https://huggingface.co/datasets/sdat2/surgenet-train), [extreme test](https://huggingface.co/datasets/sdat2/surgenet-test-ph).
 
+### Extreme extrapolation in ML for natural hazards
+
+ML models for weather and climate [need greater focus on extremes](https://doi.org/10.1088/1748-9326/ac9d4e). A model that works well on average can fail badly on rare events. In SurgeNet I built a fun toy example showing why: a ReLU network is piecewise linear, so it extrapolates beyond physical bounds as a tangent — predicting impossible values. This showed up in practice too: swapping TanH for ReLU in our graph neural network increased extreme test error 5×, while barely affecting average performance. I also explored similar ideas at RMS for winterstorms. Small architectural choices matter a lot at the tails.
+
+### Contact
  
 Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .
 

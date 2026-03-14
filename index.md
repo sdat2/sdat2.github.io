@@ -2,6 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/30407294" style="width:10em" alt="Profile picture">
 
+
 ## Papers
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7911-1659" href="https://orcid.org/0000-0001-7911-1659" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7911-1659</a></div>
@@ -9,6 +10,8 @@
 <https://scholar.google.com/citations?user=kKonjBYAAAAJ>
 
 Web of Science ResearcherID: ABE-8823-2021
+
+
 
 ## Letters collected so far
 
@@ -21,6 +24,15 @@ I recently completed my PhD at the University of Cambridge at the Department of 
 My thesis *The Potential Height of Tropical Cyclone Storm Surges* asked what the worst possible hurricane storm surge given a climate is, and how this could be useful for risk assessment and for testing the extreme extrapolation of deep learning surrogates.
 
 I studied Natural Sciences (Physics, BA+MSci) at the University of Cambridge. I am currently an ML researcher at Goldman Sachs in London.
+
+
+## Blog
+
+- [London has better weather than New York City](https://github.com/sdat2/lon_nyc) — a data-driven analysis of 20 years of hourly weather records that debunks the "drizzly London" myth.
+
+## Contact
+ 
+Feel free to get in touch. My email address is ${my github handle}g at gmail dot com .
 
 
 ## Research interests
@@ -37,14 +49,6 @@ Climate models have well-known biases in tropical cyclone frequency, intensity, 
 
 Many extreme phenomena are bounded — a pandemic can only kill everyone ([Cirillo & Taleb, 2020](https://doi.org/10.1038/s41567-020-0921-x)), and a tropical cyclone can only extract so much energy from the ocean. If you know (or can estimate) that bound, does it actually help with risk estimation? My statistical simulations suggest yes, a lot: knowing the upper bound of storm surge heights reduces uncertainty in the 1-in-100 year return period by roughly 3×, even when the bound itself is imperfect. The improvement is robust to moderate errors and only breaks down if the bound estimate is extremely noisy. This is intuitive — fitting a Weibull-class GEV distribution with a known endpoint is a much better-constrained problem than fitting one without. The open question is whether this translates cleanly into real-world risk management with more complex models, real observations, and non-stationarity from climate change. I think it should, and it's something I'd like to explore further.
 
-## Contact
- 
-Feel free to get in touch. My email address is ${my github handle}g at gmail dot com .
-
-
-## Blog
-
-- [London has better weather than New York City](https://github.com/sdat2/lon_nyc) — a data-driven analysis of 20 years of hourly weather records that debunks the "drizzly London" myth.
 
 
 ## Current projects

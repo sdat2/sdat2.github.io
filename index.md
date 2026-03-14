@@ -37,9 +37,13 @@ ML models for weather and climate [need greater focus on extremes](https://doi.o
 
 Climate models have well-known biases in tropical cyclone frequency, intensity, and seasonality — mostly because they can't resolve the small-scale dynamics of TC genesis and structure at typical ~1° grid spacing. But broad-scale thermodynamic fields like sea surface temperature are much more reliable. My thesis leans into this asymmetry: instead of trusting the TCs that climate models produce directly, we use thermodynamic theory (potential intensity, potential size) applied to the large-scale fields to calculate what the worst possible storm *could* be. These idealised theories make strong assumptions (steady-state Carnot engines, etc.), but they let you sidestep the messy dynamical biases entirely. I think this thermodynamic-first approach — trust the fields climate models are good at, use theory for the rest — is underexplored and could be useful beyond tropical cyclones.
 
+### Physical bounds and tail risk
+
+Many extreme phenomena are bounded — a pandemic can only kill everyone ([Cirillo & Taleb, 2020](https://doi.org/10.1038/s41567-020-0921-x)), and a tropical cyclone can only extract so much energy from the ocean. If you know (or can estimate) that bound, does it actually help with risk estimation? My statistical simulations suggest yes, a lot: knowing the upper bound of storm surge heights reduces uncertainty in the 1-in-100 year return period by roughly 3×, even when the bound itself is imperfect. The improvement is robust to moderate errors and only breaks down if the bound estimate is extremely noisy. This is intuitive — fitting a Weibull-class GEV distribution with a known endpoint is a much better-constrained problem than fitting one without. The open question is whether this translates cleanly into real-world risk management with more complex models, real observations, and non-stationarity from climate change. I think it should, and it's something I'd like to explore further.
+
 ### Contact
  
-Feel free to get in touch. My email address is ${my github handle} at cam dot ac dot uk .
+Feel free to get in touch. My email address is ${my github handle}g at gmail dot com .
 
 ### Funding
 

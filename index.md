@@ -27,7 +27,7 @@ I studied Natural Sciences (Physics, BA+MSci) at the University of Cambridge. I 
 
 ## Blog
 
-- [London has better weather than New York City](https://github.com/sdat2/lon_nyc) — a data-driven analysis of 20 years of hourly weather records that debunks the "drizzly London" myth.
+- [London has better weather than New York City](https://sdat2.github.io/lon_nyc/) — a data-driven analysis of 20 years of hourly weather records that debunks the "drizzly London" myth.
 
 ## Contact
  

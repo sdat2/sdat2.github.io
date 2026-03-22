@@ -31,7 +31,7 @@ I studied Natural Sciences (Physics, BA+MSci) at the University of Cambridge. I 
 
 ## Contact
  
-Feel free to get in touch. My email address is ${my github handle}g at gmail dot com .
+Feel free to get in touch. My email address is sdat2g@gmail.com
 
 
 ## Research interests

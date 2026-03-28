@@ -89,3 +89,12 @@ I have reviewed abstracts for:
 ## Funding
 
 My PhD was supported by studentship 2413578 from the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (grant no. EP/S022961/1). I received funding from the NERC ACSIS project (grant no. NE/N018028/1), and a Natural Environment Research Council (NERC) Research Experience Placement (REP) project funded by the SPITFIRE Doctoral Training Partnership (grant no. NE/S007210/1). I am also grateful for many years of support from Peterhouse.
+
+
+## Remark: An intuitive derivation of P(other child is a girl \| one child is a boy born on Tuesday) = 14/27
+
+The key subtlety is that birth order is unspecified. If we knew the *first*-born was a (boy, Tuesday), the second child is independently a girl with probability 1/2. Without that, the (boy, Tuesday) child could be first or second, doubling the combinations for every pair — except [(boy, Tuesday), (boy, Tuesday)], which is a repetition. So there are $7 \times 2 = 14$ girl pairs and $7 \times 2 - 1 = 13$ boy pairs, giving:
+
+$$P(\text{other child is a girl} \mid \text{one child is a boy born on Tuesday}) = \frac{14}{14 + 13} = \frac{14}{27} \approx 51.85\%$$
+
+But in many ways this is a contrived example: you always know the birth order of your own children, and that leads you to the intuitive 1/2 answer for your next child. In the other case where all you knew about a two child family was that it had at one boy, you might less surprised that the other child has a 2/3 chance of being a girl. By selecting a very small filter (Tuesday-born boys) you get a result annoyingly close to 1/2 that seems to break from an inherent symmetry.

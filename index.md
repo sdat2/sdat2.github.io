@@ -97,4 +97,4 @@ The key subtlety is that birth order is unspecified. If we knew the *first*-born
 
 $$P(\text{other child is a girl} \mid \text{one child is a boy born on Tuesday}) = \frac{14}{14 + 13} = \frac{14}{27} \approx 51.85\%$$
 
-But in many ways this is a contrived example: you always know the birth order of your own children, and that leads you to the intuitive 1/2 answer for your next child. In the other case where all you knew about a two child family was that it had at one boy, you might less surprised that the other child has a 2/3 chance of being a girl. By selecting a very small filter (Tuesday-born boys) you get a result annoyingly close to 1/2 that seems to break from an inherent symmetry.
+But in many ways this is a contrived example: you always know the birth order of your own children, and that leads you to the intuitive 1/2 answer for your next child. In the other case where all you knew about a two child family was that it had one boy, you might less surprised that the other child has a 2/3 chance of being a girl. By selecting a very small filter (Tuesday-born boys) you get a result annoyingly close to 1/2 that seems to break from an inherent symmetry.

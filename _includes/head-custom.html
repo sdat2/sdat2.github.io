@@ -1,9 +1,9 @@
-<!-- MathJax 3: renders $…$ inline and $$…$$ display math -->
+<!-- MathJax 3: kramdown emits \(...\) and \[...\] which MathJax 3 handles natively. -->
 <script>
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$']],
-      displayMath: [['$$', '$$']],
+      displayMath: [['\\[', '\\]']],
       processEscapes: true
     },
     options: { skipHtmlTags: ['script','noscript','style','textarea','pre'] }

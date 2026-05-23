@@ -1,8 +1,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/30407294" style="width:10em" alt="Profile picture">
 
-### [PhD Thesis](https://sdat2.github.io/thesis/)
-
 ## Papers
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7911-1659" href="https://orcid.org/0000-0001-7911-1659" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7911-1659</a></div><a href="https://scholar.google.com/citations?user=kKonjBYAAAAJ" target="_blank" rel="noopener noreferrer"> Google Scholar, </a><a href="https://www.linkedin.com/in/sdat2" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
@@ -18,9 +16,9 @@ BA MSci MRes MA (Cantab), [PhD](https://sdat2.github.io/thesis/) (Cantab, minor 
 
 ## Summary
 
-I recently completed my PhD at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics, funded through the @ai4er-cdt MRes+PhD program. I passed my viva in January 2026, subject to minor corrections.
+I recently completed my PhD at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics, funded through the @ai4er-cdt MRes+PhD program. I passed my viva in January 2026, subject to minor corrections, which were accepted in May 2026.
 
-My thesis *The Potential Height of Tropical Cyclone Storm Surges* asked what the worst possible hurricane storm surge given a climate is, and how this could be useful for risk assessment and for testing the extreme extrapolation of deep learning surrogates.
+My thesis [*The Potential Height of Tropical Cyclone Storm Surges*](https://sdat2.github.io/thesis/) asked what the worst possible hurricane storm surge given a climate is, and how this could be useful for risk assessment and for testing the extreme extrapolation of deep learning surrogates.
 
 I studied Natural Sciences (Physics, BA+MSci) at the University of Cambridge. I am currently an ML researcher at Goldman Sachs in London.
 

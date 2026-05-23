@@ -1,4 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
+description: PhD Thesis
 plugins:
 - jekyll-remote-theme
 

@@ -13,8 +13,8 @@ I studied Natural Sciences (Physics, BA+MSci) at the University of Cambridge. I 
 
 ## Blog
 
-- [Nuclear Winter (March 2024)](https://sdat2.github.io/nuclear-winter/) - an essay on the physical and social-science uncertainties around nuclear winter (now somewhat out of date).
 - [London has better weather than New York City](https://sdat2.github.io/lon_nyc/) — a data-driven analysis of 20 years of hourly weather records that debunks the "drizzly London" myth.
+- [Nuclear Winter (March 2024)](https://sdat2.github.io/nuclear-winter/) - on the physical and social-science uncertainties around nuclear winter (a capstone project for the [CERI futures fellowship](https://www.camxrisk.org/futuresfellowship)).
 - [A simple model for upwind sailing](https://sdat2.github.io/sailing-upwind/)  just using force diagrams and trigonometry. Was my IB Maths coursework in 2014! Seems to work pretty well.
 
 ## Contact

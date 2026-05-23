@@ -8,6 +8,8 @@ permalink: /nuclear-winter/
 Originally published at CamxRisk:
 [Nuclear Winter](https://www.camxrisk.org/research/khjc8p08iie9fpvtdpo350c0i0mh31).
 
+Written as a Capstone project as part of the [CERI futures fellowship](https://www.camxrisk.org/futuresfellowship).
+
 ## Nuclear Winter
 
 In late September, after a series of provocations, a full scale nuclear war begins between Russia and NATO. The conflict steadily escalates from strikes against major military installations to the complete destruction of all major cities in their combined territories. As wildfires rage across the Siberian plains and mushroom clouds clear from major cities, how will this affect countries that remain intact? Should we expect this to precipitate human extinction? A small minority of the world would have been killed in these strikes, so the secondary effects would have to be devastating to achieve this.

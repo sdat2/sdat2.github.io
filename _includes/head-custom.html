@@ -63,6 +63,32 @@
     margin-bottom: 0;
   }
 
+  #project_tagline.header-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.36rem;
+    line-height: 1.35;
+  }
+
+  #project_tagline.header-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.22rem;
+  }
+
+  #project_tagline .header-links-sep {
+    color: #5d7b6d;
+    opacity: 0.72;
+  }
+
+  #project_tagline .orcid-icon {
+    width: 0.95em;
+    height: 0.95em;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
   .profile-avatar-link {
     grid-column: 2;
     grid-row: 1 / span 2;
@@ -172,11 +198,59 @@
     var headerInner = document.querySelector("#header_wrap .inner");
     var tagline = document.getElementById("project_tagline");
     if (tagline) {
+      tagline.classList.add("header-links");
       tagline.textContent = "";
-      var link = document.createElement("a");
-      link.href = "https://sdat2.github.io/thesis/";
-      link.textContent = "PhD Thesis";
-      tagline.appendChild(link);
+      var links = [
+        {
+          href: "https://sdat2.github.io/thesis/",
+          text: "PhD Thesis"
+        },
+        {
+          href: "https://orcid.org/0000-0001-7911-1659",
+          text: "ORCID",
+          icon: "https://orcid.org/sites/default/files/images/orcid_16x16.png",
+          external: true
+        },
+        {
+          href: "https://scholar.google.com/citations?user=kKonjBYAAAAJ",
+          text: "Google Scholar",
+          external: true
+        },
+        {
+          href: "https://www.linkedin.com/in/sdat2",
+          text: "LinkedIn",
+          external: true
+        }
+      ];
+
+      links.forEach(function (entry, index) {
+        if (index > 0) {
+          var sep = document.createElement("span");
+          sep.className = "header-links-sep";
+          sep.textContent = "|";
+          tagline.appendChild(sep);
+        }
+
+        var link = document.createElement("a");
+        link.href = entry.href;
+        link.textContent = entry.text;
+        if (entry.external) {
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+        }
+
+        if (entry.icon) {
+          link.textContent = "";
+          var icon = document.createElement("img");
+          icon.src = entry.icon;
+          icon.alt = "ORCID iD icon";
+          icon.className = "orcid-icon";
+          link.appendChild(icon);
+          link.appendChild(document.createTextNode(entry.text));
+        }
+
+        tagline.appendChild(link);
+      });
     }
 
     if (!headerInner || headerInner.querySelector(".profile-avatar-link")) {

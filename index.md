@@ -1,8 +1,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/30407294" style="width:10em" alt="Profile picture">
 
-### [Read my PhD thesis: The Potential Height of Tropical Cyclone Storm Surges](https://sdat2.github.io/thesis/)
-
+### [PhD Thesis](https://sdat2.github.io/thesis/)
 
 ## Papers
 
@@ -15,7 +14,7 @@ Web of Science ResearcherID: ABE-8823-2021
 
 ## Letters collected so far
 
-BA MSci MRes MA (Cantab), PhD (Cantab, minor corrections)
+BA MSci MRes MA (Cantab), [PhD](https://sdat2.github.io/thesis/) (Cantab, minor corrections)
 
 ## Summary
 

@@ -45,6 +45,41 @@
     margin: 0 auto;
   }
 
+  #header_wrap .inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    column-gap: 1rem;
+  }
+
+  #project_title,
+  #project_tagline {
+    grid-column: 1;
+    margin-right: 0;
+  }
+
+  #project_tagline {
+    margin-top: 0.25rem;
+    margin-bottom: 0;
+  }
+
+  .profile-avatar-link {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    justify-self: end;
+    display: inline-flex;
+    text-decoration: none;
+  }
+
+  .profile-avatar {
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 999px;
+    border: 2px solid rgba(93, 123, 109, 0.45);
+    box-shadow: 0 8px 20px rgba(14, 39, 56, 0.14);
+  }
+
   #project_title,
   #project_tagline,
   #main_content h1,
@@ -115,6 +150,11 @@
   }
 
   @media (max-width: 760px) {
+    .profile-avatar {
+      width: 64px;
+      height: 64px;
+    }
+
     #main_content {
       border-radius: 14px;
       padding: 1rem;
@@ -129,16 +169,44 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    var headerInner = document.querySelector("#header_wrap .inner");
     var tagline = document.getElementById("project_tagline");
-    if (!tagline) {
+    if (tagline) {
+      tagline.textContent = "";
+      var link = document.createElement("a");
+      link.href = "https://sdat2.github.io/thesis/";
+      link.textContent = "PhD Thesis";
+      tagline.appendChild(link);
+    }
+
+    if (!headerInner || headerInner.querySelector(".profile-avatar-link")) {
       return;
     }
 
-    tagline.textContent = "";
-    var link = document.createElement("a");
-    link.href = "https://sdat2.github.io/thesis/";
-    link.textContent = "PhD Thesis";
-    tagline.appendChild(link);
+    var profileImage = document.querySelector('#main_content img[alt="Profile picture"]');
+    if (!profileImage) {
+      return;
+    }
+
+    var originalParent = profileImage.parentElement;
+    profileImage.removeAttribute("style");
+    profileImage.classList.add("profile-avatar");
+
+    var avatarLink = document.createElement("a");
+    avatarLink.href = "https://sdat2.github.io/";
+    avatarLink.className = "profile-avatar-link";
+    avatarLink.setAttribute("aria-label", "Simon D.A. Thomas");
+    avatarLink.appendChild(profileImage);
+    headerInner.appendChild(avatarLink);
+
+    if (
+      originalParent &&
+      originalParent.tagName === "P" &&
+      originalParent.children.length === 0 &&
+      originalParent.textContent.trim() === ""
+    ) {
+      originalParent.remove();
+    }
   });
 </script>
 

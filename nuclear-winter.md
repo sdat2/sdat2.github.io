@@ -1,6 +1,7 @@
 ---
 title: Nuclear Winter
 permalink: /nuclear-winter/
+description: A review of nuclear winter uncertainty, separating key physical-science and social-science questions.
 ---
 
 *Written in March 2024. This post is now a little out of date.*

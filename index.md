@@ -1,3 +1,8 @@
+---
+title: Simon D.A. Thomas
+description: ML researcher working on climate risk and extreme extrapolation in machine learning.
+permalink: /
+---
 
 <img src="https://avatars.githubusercontent.com/u/30407294" style="width:10em" alt="Profile picture">
 

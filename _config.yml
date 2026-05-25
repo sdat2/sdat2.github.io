@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
-description: PhD Thesis
+description: Simon D.A. Thomas - ML research on climate risk, tropical cyclones, and extreme-event modelling.
 plugins:
 - jekyll-remote-theme
 

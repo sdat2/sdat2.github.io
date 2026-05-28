@@ -9,7 +9,7 @@ description: A review of nuclear winter uncertainty, separating key physical-sci
 Originally published at CamxRisk:
 [Nuclear Winter](https://www.camxrisk.org/research/khjc8p08iie9fpvtdpo350c0i0mh31).
 
-Written as a Capstone project as part of the [CERI futures fellowship](https://www.camxrisk.org/futuresfellowship).
+Written as a Capstone project as part of the [Centre for Existential Risks futures fellowship](https://www.camxrisk.org/futuresfellowship).
 
 ## Nuclear Winter
 

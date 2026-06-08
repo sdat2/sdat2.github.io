@@ -32,7 +32,7 @@ Feel free to get in touch. My email address is sdat2g@gmail.com
 
 ### Extreme extrapolation in ML for natural hazards
 
-ML models for weather and climate [need greater focus on extremes](https://doi.org/10.1088/1748-9326/ac9d4e). A model that works well on average can fail badly on rare events. In [SurgeNet](https://sdat2.github.io/thesis/surgenet) I built a fun toy example showing why: a ReLU network is piecewise linear, so it extrapolates beyond physical bounds as a tangent, predicting impossible values. This showed up in practice too: swapping TanH for ReLU in our graph neural network increased extreme test error 5×, while barely affecting average performance. I also explored similar ideas at RMS for winterstorms. Small architectural choices matter a lot at the tails.
+ML models for weather and climate [need greater focus on extremes](https://doi.org/10.1088/1748-9326/ac9d4e). A model that works well on average can fail badly on rare events. In [SurgeNet](https://sdat2.github.io/thesis/surgenet.html) I built a fun toy example showing why: a ReLU network is piecewise linear, so it extrapolates beyond physical bounds as a tangent, predicting impossible values. This showed up in practice too: swapping TanH for ReLU in our graph neural network increased extreme test error 5×, while barely affecting average performance. I also explored similar ideas at RMS for winterstorms. Small architectural choices matter a lot at the tails.
 
 ### Thermodynamics vs. dynamics in climate projections
 

@@ -1,5 +1,5 @@
 ---
-title: Simon D.A. Thomas PhD
+title: Simon D.A. Thomas, PhD
 description: ML researcher working on climate risk and extreme extrapolation in machine learning.
 permalink: /
 ---
@@ -9,7 +9,7 @@ permalink: /
 
 ## Summary
 
-I recently graduated from my [PhD](https://sdat2.github.io/thesis/) at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics, funded through the @ai4er-cdt MRes+PhD program. I passed my viva in January 2026, subject to minor corrections, which were accepted in May 2026.
+I recently graduated from my [PhD](https://sdat2.github.io/thesis/) at the University of Cambridge at the Department of Applied Mathematics and Theoretical Physics, funded through the @ai4er-cdt MRes+PhD program. I passed my viva in January 2026, subject to minor corrections, which were accepted in May 2026, and I graduated in July 2026.
 
 My thesis [*The Potential Height of Tropical Cyclone Storm Surges*](https://sdat2.github.io/thesis/) asked what the worst possible hurricane storm surge given a climate is, and how this could be useful for risk assessment and for testing the extreme extrapolation of deep learning surrogates.
 
